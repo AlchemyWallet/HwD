@@ -8,5 +8,5 @@ Supplier: thechipstore-remarket
 https://www.ebay.com/usr/thechipstore-remarket
 
 
-# Same Performance as a GTX 1080!
+# Bench:
 https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+P4000&id=3719
